@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="atomdb" size="5.000000 3.537500" />
+    <ImageTarget name="planetadb" size="5.000000 4.837278" />
+    <ImageTarget name="porcentajesdb" size="5.000000 5.000000" />
+    <ImageTarget name="algebadb" size="5.000000 2.500000" />
+    <ImageTarget name="pirmidedb" size="5.000000 5.000000" />
+    <ImageTarget name="esferadb" size="5.000000 4.952267" />
+    <ImageTarget name="cubodb" size="5.000000 4.500000" />
+    <ImageTarget name="circulodb" size="5.000000 4.784367" />
+    <ImageTarget name="cuadradodb" size="5.000000 4.895038" />
+    <ImageTarget name="triangulodb" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
